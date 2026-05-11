@@ -71,19 +71,6 @@ Develop SQL-based analytics to generate insights related to:
 
 ---
 
-# Folder Structure
-
-```bash
-SQL-Data-Warehouse-Project/
-│
-├── datasets/
-├── sql_scripts/
-├── docs/
-├── reports/
-├── screenshots/
-└── README.md
-
-
 # About Me
 
 Hi, I'm Indu — a recent graduate passionate about Data Analytics, SQL, Power BI, and Machine Learning.
